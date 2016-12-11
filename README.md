@@ -18,15 +18,19 @@ Python 3 to be precise.
 On the web development chapters, **Javascript**, **HTML** and **CSS** are also used.
 
 ## Lesson Plan (work in progress)
+
 ### Part 1: The basics
 - The Basics: Variables, Conditionals, Loops
 - Basic Data Structures, Functions
 - Intro to Object Oriented Programming
 - Modules
+
 ### Part 2: Out of the box
+
 - Exception handling
 - Working with files
 - Working with Web APIs
 - Working with relational databases (SQLite)
 - Working with NoSQL databases (MongoDB)
+
 ### Part 3 (TBA)
