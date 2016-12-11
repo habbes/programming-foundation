@@ -12,10 +12,12 @@ experience might find the pace too fast.
 The chapters on web development assume some familiarity with HTML
 and CSS.
 
-### Languages used
+### Languages Used
 The **Python** programming language is used for the majority of the course,
 Python 3 to be precise.
 On the web development chapters, **Javascript**, **HTML** and **CSS** are also used.
+
+**Setup**: Download and install [Python 3 here](https://www.python.org/downloads/).
 
 ## Lesson Plan (work in progress)
 
