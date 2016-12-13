@@ -375,6 +375,28 @@ for i in range(len(sentence)):
 
 ```
 
+## Exercises
+
+1. Write a program that counts and displays the number of spaces
+in a sentence of your choice.
+
+2. Transform the program in 1. so that it prompts the user to
+enter the sentence
+
+3. Write a program that computes and displays the factorial
+of the number 200.
+
+4. Transform the program in 3 so that it prompts the user
+for the input number.
+
+5. Write a program that allows the user to enter items of
+a shopping cart and their prices. At each Iteration
+the program prompts the user to enter the name of the item 
+then the price of the item. The program then displays the
+name of the entered item and the current total price of the
+shopping cart. If instead of an item name the user enters *end*,
+the program should display the final total and end.
+
 
 ## Resources and further reading
 
