@@ -393,7 +393,7 @@ for the input number.
 displays all the odd numbers between them. The user should be
 free to enter the 2 numbers in any order.
 
-6. What is the result of the expression `"Hello, World"[::2]?
+6. What is the result of the expression ```"Hello, World"[::2]```?
 Do some digging and find out more about the slicing feature in Python.
 
 7. What is multiple assignment in Python and how does it work?
