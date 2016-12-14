@@ -176,11 +176,11 @@ a value of one type to a value of a different type.
 ```python
 
 >>> 1 + "1"
-# This will throw an error, you can add an int and a string
+# This will throw an error, you cannot add an int and a string
 
->>> 1 + int("1") # the string "1" is converted to the int 1
+>>> 1 + int("1") # the string "1" is converted to the int 1 and addition is performed
 2
->>> str(1) + "1" # the int 1 is converted to the string "1"
+>>> str(1) + "1" # the int 1 is converted to the string "1" and concatenation is performed
 '11'
 
 # More conversions
