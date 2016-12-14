@@ -389,7 +389,16 @@ of the number 200.
 4. Transform the program in 3 so that it prompts the user
 for the input number.
 
-5. Write a program that allows the user to enter items of
+5. Write a program that prompts the user for 2 numbers then
+displays all the odd numbers between them. The user should be
+free to enter the 2 numbers in any order.
+
+6. What is the result of the expression `"Hello, World"[::2]?
+Do some digging and find out more about the slicing feature in Python.
+
+7. What is multiple assignment in Python and how does it work?
+
+8. Write a program that allows the user to enter items of
 a shopping cart and their prices. At each Iteration
 the program prompts the user to enter the name of the item 
 then the price of the item. The program then displays the
